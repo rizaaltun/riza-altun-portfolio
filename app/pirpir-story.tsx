@@ -2,7 +2,8 @@
 import {useEffect,useRef,useState,type CSSProperties} from "react";
 import {gsap} from "gsap";
 import {ScrollTrigger} from "gsap/ScrollTrigger";
-const base="/pirpir";
+import { assetPath } from "./asset-path";
+const base=assetPath("/pirpir");
 export default function PirpirStory({lang="en"}:{lang?:"en"|"tr"}){
  const [cardsOpen,setCardsOpen]=useState(false);
  const root=useRef<HTMLElement>(null),box=useRef<HTMLImageElement>(null);
