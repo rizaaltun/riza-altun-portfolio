@@ -1,0 +1,37 @@
+[
+  {
+    "issue": 49,
+    "language": "TR",
+    "previewPages": 21,
+    "totalPhysicalPages": 42,
+    "entry": "myd-49-tr/index.html"
+  },
+  {
+    "issue": 50,
+    "language": "ENG",
+    "previewPages": 23,
+    "totalPhysicalPages": 44,
+    "entry": "myd-50-eng/index.html"
+  },
+  {
+    "issue": 51,
+    "language": "TR",
+    "previewPages": 21,
+    "totalPhysicalPages": 40,
+    "entry": "myd-51-tr/index.html"
+  },
+  {
+    "issue": 52,
+    "language": "TR",
+    "previewPages": 21,
+    "totalPhysicalPages": 40,
+    "entry": "myd-52-tr/index.html"
+  },
+  {
+    "issue": 53,
+    "language": "ENG",
+    "previewPages": 23,
+    "totalPhysicalPages": 44,
+    "entry": "myd-53-eng/index.html"
+  }
+]
