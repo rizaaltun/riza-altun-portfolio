@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[97367,["/riza-altun-portfolio/next/static/chunks/0dbhjjzl8qfwv.js"],"ViewportBoundary"]
-3:I[97367,["/riza-altun-portfolio/next/static/chunks/0dbhjjzl8qfwv.js"],"MetadataBoundary"]
+2:I[97367,["/riza-altun-portfolio/_next/static/chunks/0dbhjjzl8qfwv.js"],"ViewportBoundary"]
+3:I[97367,["/riza-altun-portfolio/_next/static/chunks/0dbhjjzl8qfwv.js"],"MetadataBoundary"]
 4:"$Sreact.suspense"
-5:I[27201,["/riza-altun-portfolio/next/static/chunks/0dbhjjzl8qfwv.js"],"IconMark"]
+5:I[27201,["/riza-altun-portfolio/_next/static/chunks/0dbhjjzl8qfwv.js"],"IconMark"]
 0:{"rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Rıza Altun — Art / Design / Technology"}],["$","meta","1",{"name":"description","content":"Graphic design, creative development, interactive experiences and games by Rıza Altun."}],["$","meta","2",{"name":"codex-preview","content":"development"}],["$","link","3",{"rel":"shortcut icon","href":"/riza-altun-portfolio/favicon.svg"}],["$","link","4",{"rel":"icon","href":"/riza-altun-portfolio/favicon.svg"}],["$","$L5","5",{}]]}]}]}],null]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"1SgY5sTz5rmi5mQKc_Nnw"}
